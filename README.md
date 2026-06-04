@@ -1,4 +1,4 @@
-# 💫 About Me:
+    Hi 👋, I'm Priyanka Sherikar:
 🔭 I’m currently working as a Senior Data Engineer<br>👉 at enterprise-level data platforms using Snowflake, AWS, PySpark, and Airflow, building scalable ETL/ELT pipelines and data solutions.<br><br>🤝 I’m looking to collaborate with software enthusiasts<br>👉 especially in data engineering, cloud analytics, and open-source data projects.<br><br>🌱 I’m currently learning<br>👉 advanced data architecture patterns, real-time streaming (Kafka), and cloud data engineering on Azure/AWS.<br><br>💬 Ask me about<br>👉 Snowflake, SQL optimization, PySpark, Airflow DAGs, ETL pipelines, and data warehouse design.<br><br>⚡ Fun fact<br>👉 I enjoy turning messy raw data into clean, meaningful insights that drive business decisions.
 
 
